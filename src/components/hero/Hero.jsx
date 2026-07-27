@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { FaArrowRight, FaCheckCircle } from "react-icons/fa";
-import heroImage from "../../assets/images/hero/image.png"; 
+import heroImage from "../../assets/images/hero/image.webp"; 
 import { Link } from "react-router-dom";
 
 const Hero = () => {

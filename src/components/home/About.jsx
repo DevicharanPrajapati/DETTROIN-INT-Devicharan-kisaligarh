@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { FaCheckCircle } from "react-icons/fa";
-import aboutImage from "../../assets/images/about/a1.png";
+import aboutImage from "../../assets/images/about/a1.webp";
 import { Link } from "react-router-dom";
 
 const features = [

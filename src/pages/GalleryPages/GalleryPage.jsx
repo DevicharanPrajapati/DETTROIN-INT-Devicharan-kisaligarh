@@ -1,16 +1,16 @@
 import GalleryCard from "../../components/gallery/GalleryCard";
 import { motion } from "framer-motion";
 
-import gallery1 from "../../assets/images/gallery/g1.png";
-import gallery2 from "../../assets/images/gallery/g2.png";
-import gallery3 from "../../assets/images/gallery/g3.png";
-import gallery4 from "../../assets/images/gallery/g4.png";
-import gallery5 from "../../assets/images/gallery/g5.png";
-import gallery6 from "../../assets/images/gallery/g6.png";
-import gallery7 from "../../assets/images/gallery/g7.png";
-import gallery8 from "../../assets/images/gallery/g8.png";
-import gallery9 from "../../assets/images/gallery/g9.png";
-import gallery10 from "../../assets/images/gallery/g10.png";
+import gallery1 from "../../assets/images/gallery/g1.webp";
+import gallery2 from "../../assets/images/gallery/g2.webp";
+import gallery3 from "../../assets/images/gallery/g3.webp";
+import gallery4 from "../../assets/images/gallery/g4.webp";
+import gallery5 from "../../assets/images/gallery/g5.webp";
+import gallery6 from "../../assets/images/gallery/g6.webp";
+import gallery7 from "../../assets/images/gallery/g7.webp";
+import gallery8 from "../../assets/images/gallery/g8.webp";
+import gallery9 from "../../assets/images/gallery/g9.webp";
+import gallery10 from "../../assets/images/gallery/g10.webp";
 // import gallery11 from "../../assets/images/gallery/g11.png";
 // import gallery12 from "../../assets/images/gallery/g12.png";
 

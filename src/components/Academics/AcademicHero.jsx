@@ -1,5 +1,5 @@
 import HeroSection from "../common/HeroSection";
-import academicHero from "../../assets/images/academic/a1.png";
+import academicHero from "../../assets/images/academic/a1.webp";
 
 const AcademicHero = () => {
   return (

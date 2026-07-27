@@ -1,5 +1,5 @@
 import HeroSection from "../common/HeroSection";
-import cocurriculumImg1 from "../../assets/images/cocurriculum/c2.png";
+import cocurriculumImg1 from "../../assets/images/cocurriculum/c2.webp";
 
 const CoCurricularHero = () => {
   return (

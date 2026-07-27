@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import schoolLogo from "../../assets/images/navbar/schoolLogo.png";
-import schoolNameLogo from "../../assets/images/navbar/schoolNameLogo.png";
+import schoolLogo from "../../assets/images/navbar/schoolLogo.webp";
+import schoolNameLogo from "../../assets/images/navbar/schoolNameLogo.webp";
 
 
 const Logo = () => {
@@ -9,6 +9,7 @@ const Logo = () => {
       {/* Logo Image */}
       <img
         src={schoolLogo}
+        
         alt="Krishna International School"
         className="h-15 w-15 object-contain"
       />

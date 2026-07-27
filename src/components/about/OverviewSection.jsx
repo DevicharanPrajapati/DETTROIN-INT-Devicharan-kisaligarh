@@ -7,7 +7,7 @@ import {
   FaGraduationCap,
 } from "react-icons/fa";
 
-import overviewImg from "../../assets/images/academic/a1.png";
+import overviewImg from "../../assets/images/academic/a1.webp";
 
 const strengths = [
   {

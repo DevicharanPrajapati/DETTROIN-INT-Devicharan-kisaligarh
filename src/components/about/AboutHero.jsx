@@ -1,5 +1,5 @@
 import HeroSection from "../common/HeroSection";
-import backgroundImage from "../../assets/images/about/a1.png";
+import backgroundImage from "../../assets/images/about/a1.webp";
 
 const AboutHero = () => {
   return (

@@ -2,12 +2,12 @@ import { motion } from "framer-motion";
 import { FaArrowRight } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
-import gallery1 from "../../assets/images/gallery/g1.png";
-import gallery2 from "../../assets/images/gallery/g2.png";
-import gallery3 from "../../assets/images/gallery/g6.png";
-import gallery4 from "../../assets/images/gallery/g8.png";
-import gallery5 from "../../assets/images/gallery/g7.png";
-import gallery6 from "../../assets/images/gallery/g3.png";
+import gallery1 from "../../assets/images/gallery/g1.webp";
+import gallery2 from "../../assets/images/gallery/g2.webp";
+import gallery3 from "../../assets/images/gallery/g6.webp";
+import gallery4 from "../../assets/images/gallery/g8.webp";
+import gallery5 from "../../assets/images/gallery/g7.webp";
+import gallery6 from "../../assets/images/gallery/g3.webp";
 
 const images = [
   gallery1,

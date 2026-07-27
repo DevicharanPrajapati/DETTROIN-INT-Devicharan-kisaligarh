@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import chairmanImg from "../../assets/images/about/a2.png"; 
+import chairmanImg from "../../assets/images/about/a2.webp"; 
 
 const ChairmanMessage = () => {
   return (

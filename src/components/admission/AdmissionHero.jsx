@@ -1,5 +1,5 @@
 import HeroSection from "../common/HeroSection";
-import admissionHero from "../../assets/images/admission/adminssionHero.png";
+import admissionHero from "../../assets/images/admission/adminssionHero.webp";
 
 const AdmissionHero = () => {
   return (
