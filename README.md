@@ -1,12 +1,75 @@
-# Student Details
--Full Name : Devicharan Prajapati
--Intern ID
--Email Address : devicharan2724@gmail.com
--GitHub Username : DevicharanPrajapati
--Selected Website : https://kisaligarh.com/
--Live Demo Link : 
--Technologies Used : 
--Key Improvements Made : 
+# Krishna International School Website
+
+A modern, responsive school website developed using React.js and Tailwind CSS as part of my internship project. The website provides information about the school, academics, admissions, co-curricular activities, gallery, and contact details with an attractive and user-friendly interface.
+
+---
+
+## 👤 Developer Information
+
+- **Full Name:** Your Full Name
+- **Intern ID:** Your Intern ID
+- **Email Address:** your.email@example.com
+- **GitHub Username:** your-github-username
+- **Selected Website:** Krishna International School
+
+---
+
+## 🚀 Live Demo
+
+**Live Website:** https://your-vercel-app.vercel.app
+
+---
+
+## 📂 GitHub Repository
+
+https://github.com/your-github-username/your-repository
+
+---
+
+## 🛠 Technologies Used
+
+- React.js
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Framer Motion
+- React Icons
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+---
+
+## ✨ Key Improvements Made
+
+- Developed a fully responsive user interface.
+- Created reusable React components for better code organization.
+- Implemented smooth animations using Framer Motion.
+- Added responsive navigation with mobile support.
+- Built dedicated pages for:
+  - Home
+  - About
+  - Academics
+  - Admission
+  - Co-Curricular Activities
+  - Gallery
+  - Contact
+- Added admission enquiry and contact forms.
+- Stored form submissions using Local Storage.
+- Integrated Google Maps on the Contact page.
+- Improved UI consistency using reusable layouts and shared components.
+
+## 📸 Features
+
+- Responsive Design
+- Animated UI
+- Reusable Components
+- Smooth Navigation
+- Gallery Section
+- Contact Form
+- Admission Enquiry Form
+- Google Maps Integration
+- Clean Code Structure
 
 
 # React + Vite
