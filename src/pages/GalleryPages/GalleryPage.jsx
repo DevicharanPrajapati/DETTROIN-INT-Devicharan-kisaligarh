@@ -1,4 +1,4 @@
-import GalleryCard from "../../components/galloery/GalleryCard";
+import GalleryCard from "../../components/gallery/GalleryCard";
 import { motion } from "framer-motion";
 
 import gallery1 from "../../assets/images/gallery/g1.png";
