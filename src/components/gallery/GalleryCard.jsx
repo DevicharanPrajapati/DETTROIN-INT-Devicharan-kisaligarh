@@ -13,6 +13,7 @@ const GalleryCard = ({ image, title, index }) => {
         <img
           src={image}
           alt={title}
+          loading="lazy"
           className="h-72 w-full object-cover transition duration-500 group-hover:scale-110"
         />
 

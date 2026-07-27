@@ -13,6 +13,7 @@ const HeroSection = ({
       style={{
         backgroundImage: `url(${backgroundImage})`,
       }}
+      loading="lazy"
     >
       {/* Overlay */}
       <div className="absolute inset-0 bg-slate-900/75"></div>
